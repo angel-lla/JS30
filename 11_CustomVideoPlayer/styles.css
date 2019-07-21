@@ -36,7 +36,7 @@ html {
   .player:fullscreen .player__video {
       position: relative;
       vertical-align: center;
-      top: 20%;
+      /*top: 20%;*/
   }
   
   .player:-webkit-full-screen {
